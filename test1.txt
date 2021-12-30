@@ -1,0 +1,27 @@
+library_start <- function(){
+  
+  library(plotly)
+  library(tidyverse)
+  library(tidygraph)
+  library(geosphere)
+  library(data.table)
+  library(igraph)
+  library(optiRum)
+  # library(raster)
+  library(compiler)
+  
+}
+
+library_start()
+rm(library_start)
+
+
+aa
+
+Library
+
+1+1+2+3333333
+
+
+Hoonhoon
+
